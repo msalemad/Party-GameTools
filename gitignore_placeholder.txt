@@ -1,0 +1,25 @@
+# .gitignore
+
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build
+[Bb]in/
+[Oo]bj/
+AppPackages/
+BundleArtifacts/
+
+## NuGet
+packages/
+*.nupkg
+
+## OS
+Thumbs.db
+.DS_Store
+
+## Local secrets
+*.pfx
