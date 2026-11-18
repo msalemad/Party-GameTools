@@ -1,13 +1,5 @@
 # Recursos visuales
 
-## Captura de referencia
+La referencia visual aprobada está en [docs/Party-GameTools GUIs.jpg](<../docs/Party-GameTools GUIs.jpg>) y se muestra también en el README principal. No hace falta copiarla a `assets/`.
 
-El README muestra la captura esperada desde esta ruta:
-
-```text
-assets/gui-reference.png
-```
-
-La imagen adjunta a la conversación puede verse allí como referencia, pero los bytes originales no están disponibles para la herramienta que realiza commits de archivos de texto. Para completar la incrustación, guarda o descarga la imagen original con ese nombre y súbela al repositorio (por ejemplo, mediante la interfaz web de GitHub).
-
-No reemplazarla por una recreación aproximada: la captura adjunta es la referencia visual aprobada.
+Esta carpeta queda disponible para iconos y otros recursos visuales de la implementación cuando comience el desarrollo.
